@@ -1,5 +1,7 @@
 # Data-visualization
 
+![Data Visualization](https://github.com/RanjitM007/Data-visualization/blob/main/200w.webp?raw=true)
+
 ![Data Visualization](https://github.com/RanjitM007/Data-visualization/blob/main/Data_Visualization_Tools.jpg?raw=true)
 Data visualization is the graphical representation of information and data. By using visual elements like charts, graphs, and maps, data visualization tools provide an accessible way to see and understand trends, outliers, and patterns in data.
 
